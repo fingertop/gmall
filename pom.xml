@@ -8,11 +8,11 @@
         <version>2.1.11.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.idea</groupId>
-    <artifactId>demo</artifactId>
+    <groupId>com.gmall</groupId>
+    <artifactId>gmall</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>demo</name>
-    <description>Demo project for Spring Boot</description>
+    <name>gmall</name>
+    <description>gmall project for Spring Boot</description>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
