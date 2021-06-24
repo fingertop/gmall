@@ -1,4 +1,4 @@
-package com.idea.demo.controller;
+package com.gmall.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;

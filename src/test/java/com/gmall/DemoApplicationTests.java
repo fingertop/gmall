@@ -1,4 +1,4 @@
-package com.idea.demo;
+package com.gmall;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
